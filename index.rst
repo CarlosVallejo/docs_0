@@ -12,10 +12,3 @@ Welcome to project name's documentation!
    about-me
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
