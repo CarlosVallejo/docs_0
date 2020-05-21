@@ -8,7 +8,7 @@ Welcome to project name's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   about-me
 
 
 
