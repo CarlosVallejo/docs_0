@@ -11,7 +11,6 @@ Im testing
 * lod
 
 Mi primera foto:
-.. image:: pics/Capture.JPG
-  :width: 400
-  :alt: Alternative text
 
+.. image:: pics/Capture.JPG
+    :width: 400
