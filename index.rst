@@ -10,5 +10,6 @@ Welcome to project name's documentation!
    :maxdepth: 2
 
    about-me
+   module_notes
 
 

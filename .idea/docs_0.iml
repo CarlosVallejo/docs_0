@@ -6,6 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (test3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test3" />
   </component>
   <component name="ReSTService">
     <option name="DOC_DIR" value="$MODULE_DIR$" />
