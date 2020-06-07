@@ -9,10 +9,24 @@ Notas
 Como hacer su lista de tareas pendientes
 ==========================================
 
-Crear etapas
+Etapas
 ------------
 
 Desglosar sus listas de tareas pendientes en etapas que se convertirán en columnas en su escritorio.
+
+Para crear una nueva columna o etapa simplemente hay que hacer click en el botón **Agregar una Columna**.
+
+.. image::1AXkhcYtua.png
+
+Para acceder a la configuración de cualquier columna deslize el puntero del ratón hacia el título de la columna, aparecerá un nuevo icono y haga click en el para que aparezcan nuevas opciones:
+
+.. image::KkAdqA8fEk.png
+
+- **Doblar**: Dobla la columna temporalmente
+- **Editar tapa**: Abre una nueva ventana donde se permite:
+    - Modificar el nombre de la columna.
+    - Doblar la columna por defecto.
+- **Suprimir**: Elimina la columna
 
 Vista Kanban
 ------------
@@ -36,22 +50,26 @@ Insertar estilos de texto como encabezados, negrita, itálica, listas y fuentes 
 Archivos adjuntos
 -----------------
 Adjuntar a sus notas documentos de texto, documentos de imagen.
+
 Etiquetas
 ----------
 Añadir etiqueta a sus notas para una clara organización.
+
 Filtros y grupos
 -----------------
 Buscar notas fácilmente gracias a filtros inteligentes.
+
 Colores
 -------
 Agrupar sus notas por color como medio para categorizar sus tareas. Hay 9 colores para elegir y una opción sin color.
+
 Importación
 --------------
 Subir cualquier documento de texto o documento a sus notas.
+
 Exportar
 ---------
 Exportar notas como HTMl, texto plano o documentos Docu/Wiki.
-
 
 
 Colaborar
@@ -71,6 +89,7 @@ Slider de línea de tiempo
 --------------------------
 
 Ver el historial de cambios hecho a una nota de forma cronológica, de la primera a la última frase.
+
 Compartir
 ----------
 Compartir fácilmente sus notas con sus colegas enviándoles un enlace o una URL integrada.
