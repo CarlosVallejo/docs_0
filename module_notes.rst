@@ -16,11 +16,11 @@ Desglosar sus listas de tareas pendientes en etapas que se convertirán en colum
 
 Para crear una nueva columna o etapa simplemente hay que hacer click en el botón **Agregar una Columna**.
 
-.. image:: 1AXkhcYtua.png
+.. image:: pics/1AXkhcYtua.png
 
 Para acceder a la configuración de cualquier columna deslize el puntero del ratón hacia el título de la columna, aparecerá un nuevo icono y haciendo click en él para que aparezcan las siguientes opciones:
 
-.. image:: jTcl8Asexa.png
+.. image:: pics/jTcl8Asexa.png
 
 - **Doblar**: Dobla la columna temporalmente.
 - **Editar tapa**: Abre una nueva ventana donde se permite:
