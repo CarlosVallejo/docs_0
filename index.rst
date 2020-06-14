@@ -8,6 +8,9 @@ Welcome to project name's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
+   :caption: Caption title
+   :name: name title
 
    about-me
    module_notes
